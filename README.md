@@ -1,4 +1,6 @@
 # Insurance Provider - ETHPROOF Advanced Varun Ass2
+This is an Insurance Provider Contract for 2 types of users. It is an application of DeFi. I have included 2 branches. The main branch is the submission which contains only the contracts. The UI branch contains the UI part but there were many issues with it, like transferring some liquidity to each contract deployed by Insurance Factory in case of lossful events. I will try and finish this after completing the course.
+
 P.S. I had added the README file when editing on the UI branch but forgot to put it in the main branch😅
 ## Problem Statement
 
