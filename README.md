@@ -2,6 +2,11 @@
 This is an Insurance Provider Contract for 2 types of users. It is an application of DeFi. I have included 2 branches. The main branch is the submission which contains only the contracts. The UI branch contains the UI part but there were many issues with it, like transferring some liquidity to each contract deployed by Insurance Factory in case of lossful events. I will try and finish this after completing the course.
 
 P.S. I had added the README file when editing on the UI branch but forgot to put it in the main branch😅
+
+## Companion Video
+
+[Loom Companion Video](https://www.loom.com/share/43ef5aef8f694c2d9e2fb7b7210b82ce?sid=715b9b39-2247-4c68-affe-13ee56f13859)
+
 ## Problem Statement
 
 Using Solidity - create an insurance provider protocol. The insurance mechanism is simple. Users of an insurance platform provide liquidity to cover damage in the case of an insured event, and they themselves receive interest for providing liquidity. You can refer to Etherisc for some inspiration
